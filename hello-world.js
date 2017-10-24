@@ -1,1 +1,1 @@
-System.Debug ("Hello World from the Raspberry PI");
+console.log ("Hello World from the lRaspberry PI");
